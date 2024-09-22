@@ -1,0 +1,14 @@
+C:\Users\Adebi\Documents\cproject\bin\Debug\net8.0\cproject.exe
+C:\Users\Adebi\Documents\cproject\bin\Debug\net8.0\cproject.deps.json
+C:\Users\Adebi\Documents\cproject\bin\Debug\net8.0\cproject.runtimeconfig.json
+C:\Users\Adebi\Documents\cproject\bin\Debug\net8.0\cproject.dll
+C:\Users\Adebi\Documents\cproject\bin\Debug\net8.0\cproject.pdb
+C:\Users\Adebi\Documents\cproject\obj\Debug\net8.0\cproject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Adebi\Documents\cproject\obj\Debug\net8.0\cproject.AssemblyInfoInputs.cache
+C:\Users\Adebi\Documents\cproject\obj\Debug\net8.0\cproject.AssemblyInfo.cs
+C:\Users\Adebi\Documents\cproject\obj\Debug\net8.0\cproject.csproj.CoreCompileInputs.cache
+C:\Users\Adebi\Documents\cproject\obj\Debug\net8.0\cproject.dll
+C:\Users\Adebi\Documents\cproject\obj\Debug\net8.0\refint\cproject.dll
+C:\Users\Adebi\Documents\cproject\obj\Debug\net8.0\cproject.pdb
+C:\Users\Adebi\Documents\cproject\obj\Debug\net8.0\cproject.genruntimeconfig.cache
+C:\Users\Adebi\Documents\cproject\obj\Debug\net8.0\ref\cproject.dll
