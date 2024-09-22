@@ -12,3 +12,4 @@ C:\Users\Adebi\Documents\cproject\obj\Debug\net8.0\refint\cproject.dll
 C:\Users\Adebi\Documents\cproject\obj\Debug\net8.0\cproject.pdb
 C:\Users\Adebi\Documents\cproject\obj\Debug\net8.0\cproject.genruntimeconfig.cache
 C:\Users\Adebi\Documents\cproject\obj\Debug\net8.0\ref\cproject.dll
+C:\Users\Adebi\Documents\cproject\obj\Debug\net8.0\cproject.sourcelink.json
