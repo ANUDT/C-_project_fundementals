@@ -21,7 +21,8 @@ namespace MyApp
             Console.WriteLine("I can sing a song for you");
             Console.ReadLine();
             Console.WriteLine("Shall I sing, I am singing in the rain");
-            Console.ReadLine();  
+            Console.ReadLine(); 
+            Console.ForegroundColor =ConsoleColor.Red; 
             Console.WriteLine("Ok lets leave that then today :-) ");          
             Console.ReadLine();
 
