@@ -8,13 +8,14 @@ namespace MyApp
 
         static void Main(string[] args)
         {
+            //changed console appearance
             Console.Title = "Sharpy Hilly Billy";
             Console.BackgroundColor = ConsoleColor.Blue;
             Console.WindowHeight = 40;
 
+            //get a conversation going
             Console.WriteLine("Hello what is up?");
             Console.ReadLine();
-
             Console.WriteLine("My name is Sharp the Shark, I am an AI figure and will look after you today?\nWhat can you do?");
             Console.ReadLine();
             Console.WriteLine("I can sing a song for you");
@@ -24,6 +25,7 @@ namespace MyApp
             Console.WriteLine("Ok lets leave that then today :-) ");          
             Console.ReadLine();
 
+            //printing the conversation in console
             Console.ReadKey();
         }
     }
