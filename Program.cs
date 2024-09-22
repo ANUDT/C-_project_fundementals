@@ -7,8 +7,7 @@ namespace MyApp
     {
 
         static void Main(string[] args)
-        {
-            Console.Title = "Sharpy";
+        {   Console.Title = "Sharpy Hilly Billy";
             Console.BackgroundColor = ConsoleColor.Blue;
             Console.WindowHeight = 40;
 
@@ -17,6 +16,7 @@ namespace MyApp
 
             Console.WriteLine("My name is Sharp the Shark, I am an AI figure and will look after you today?\nWhat can you do?");
             Console.WriteLine("I can sing a song for you");
+            Console.ReadLine();
 
             Console.ReadKey();
         }
